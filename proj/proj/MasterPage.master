@@ -1,0 +1,112 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Task Management System</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        
+        .navbar {
+            background-color: #f8f9fa;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .navbar-brand {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            text-decoration: none;
+        }
+        
+        .navbar-nav {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .nav-item {
+            margin-left: 20px;
+        }
+        
+        .nav-link {
+            color: #333;
+            text-decoration: none;
+            font-size: 16px;
+        }
+        
+        .nav-link:hover {
+            color: #007bff;
+        }
+        
+        .main-content {
+            flex: 1;
+            padding: 20px;
+        }
+        
+        footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            border-top: 1px solid #e9ecef;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Navbar -->
+        <nav class="navbar">
+            <a href="Default.aspx" class="navbar-brand">Task Manager</a>
+            
+            <asp:Panel ID="pnlAuthenticatedLinks" runat="server" Visible="false">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a href="Dashboard.aspx" class="nav-link">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="Tasks.aspx" class="nav-link">Tasks</a>
+                    </li>
+                </ul>
+            </asp:Panel>
+            
+            <div class="navbar-nav">
+                <asp:Panel ID="pnlGuestLinks" runat="server">
+                    <a href="Register.aspx" class="nav-link">Register</a>
+                    <a href="Login.aspx" class="nav-link" style="margin-left: 15px;">Login</a>
+                </asp:Panel>
+                
+                <asp:Panel ID="pnlUserInfo" runat="server" Visible="false">
+                    <span style="margin-right: 15px;"><asp:Literal ID="litUsername" runat="server"></asp:Literal></span>
+                    <asp:LinkButton ID="lnkLogout" runat="server" CssClass="nav-link" OnClick="lnkLogout_Click">Logout</asp:LinkButton>
+                </asp:Panel>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        
+        <!-- Footer -->
+        <footer>
+            <div>© <%: DateTime.Now.Year %> Task Management System</div>
+        </footer>
+    </form>
+</body>
+</html>

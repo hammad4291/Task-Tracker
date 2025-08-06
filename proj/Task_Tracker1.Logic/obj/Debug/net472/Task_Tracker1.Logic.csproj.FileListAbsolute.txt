@@ -1,0 +1,9 @@
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\bin\Debug\net472\Task_Tracker1.Logic.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\bin\Debug\net472\Task_Tracker1.Logic.pdb
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.csproj.AssemblyReference.cache
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.AssemblyInfoInputs.cache
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.AssemblyInfo.cs
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.csproj.CoreCompileInputs.cache
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker1.Logic\obj\Debug\net472\Task_Tracker1.Logic.pdb

@@ -1,0 +1,17 @@
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Task_Tracker.Tests.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Task_Tracker.Tests.pdb
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Task_Tracker1.Logic.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Task_Tracker1.Logic.pdb
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\obj\Debug\Task_Tracker.Tests.csproj.AssemblyReference.cache
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\obj\Debug\Task_Tracker.Tests.csproj.CoreCompileInputs.cache
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\obj\Debug\Task_Tra.17097CA8.Up2Date
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\obj\Debug\Task_Tracker.Tests.dll
+D:\Bs SE 6th Semester\SCD\Task Tracker\proj\Task_Tracker.Tests\obj\Debug\Task_Tracker.Tests.pdb
